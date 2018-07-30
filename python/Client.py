@@ -9,8 +9,8 @@ Provide user specific data and interact with gate.io
 from gateAPI import GateIO
 
 ## 填写 apiKey APISECRET
-apiKey = 'A8528A0D-3DCF-40D2-8A31-7E2422318341'
-secretKey = '2fea7692d8fa02e1ceb82cb1b0dddcf9b2889cf30fd92ee3662f6cd40047d535'
+apiKey = 'A8528A0D-3DCF-40D2-8A31-7E242231834001'
+secretKey = '2fea7692d8fa02e1ceb82cb1b0dddcf9b2889cf30fd92ee3662f6cd40047d53005'
 ## address
 btcAddress = 'your btc address'
 
